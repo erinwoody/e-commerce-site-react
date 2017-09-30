@@ -1,0 +1,18 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+footer {
+  color: grey;
+  background-color: black;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 90%;
+  padding: 20px 0 20px 0;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+}
