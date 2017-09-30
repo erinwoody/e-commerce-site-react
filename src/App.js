@@ -2,13 +2,12 @@ import React, { Component } from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import "./styles/App.css";
 // import "./styles/bootstrap.css";
-import BaseLayout from "./components/BaseLayout";
+import BaseLayout from "./container/BaseLayout";
 import About from "./container/About";
 import Contact from "./container/Contact";
 import Home from "./container/Home";
-import Apparel from "./container/Apparel";
-import Decor from "./container/Decor";
-import Food from "./container/Food";
+import ProductLine from "./container/ProductLine";
+import ProductDetail from "./components/ProductDetail";
 
 class App extends Component {
   render() {
@@ -16,12 +15,12 @@ class App extends Component {
       <BrowserRouter>
         <BaseLayout>
           <Switch>
-            <Route path="/about" component={About} />
-            <Route path="/contact" component={Contact} />
-            <Route path="/apparel" component={Apparel} />
-            <Route path="/decor" component={Decor} />
-            <Route path="/food" component={Food} />
-            <Route exact path="/" component={Home} />
+          <Route path="/contact" component={Contact} />
+          <Route path="/about" component={About} />
+
+          <Route path="/:productline/:id" component={ProductDetail} />
+          <Route path="/:productline" component={ProductLine} />
+          <Route exact path="/" component={Home} />
           </Switch>
         </BaseLayout>
       </BrowserRouter>
