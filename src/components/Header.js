@@ -17,7 +17,7 @@ export default class Header extends Component {
             <span className="navbar-toggler-icon" />
           </button>
           <a className="navbar-brand" href="/">
-            Navbar
+            Halloween Boo-tique
           </a>
           <div className="collapse navbar-collapse" id="navbarNavDropdown">
             <ul className="navbar-nav">
@@ -52,7 +52,7 @@ export default class Header extends Component {
                   aria-labelledby="navbarDropdownMenuLink"
                 >
                   <a className="dropdown-item" href="/apparel">
-                    Apparel
+                    Costumes
                   </a>
                   <a className="dropdown-item" href="/decor">
                     Decorations

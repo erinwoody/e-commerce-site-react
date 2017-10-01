@@ -19,9 +19,12 @@ footer {
 
 .product-details {
   margin-top: 100px;
+  text-align: center;
 }
 
-
+.card-body {
+  text-align: center;
+}
 
 .img-ctr {
   text-align: center;

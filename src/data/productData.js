@@ -34,7 +34,7 @@ export default {
         },
         {
             id: "h5",
-            productImg: "https://target.scene7.com/is/image/Target/51212669?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            productImg: "https://target.scene7.com/is/image/Target/51212669?wid=300&hei=360&qlt=80&fmt=pjpeg",
             fullSizeImg: "https://target.scene7.com/is/image/Target/51212668?wid=520&hei=520&fmt=pjpeg",
             productTitle: "Woody Costume",
             productDescription: "Get the complete look this Halloween with the Men’s Disney Toy Story costume. This men’s costume is straight out of the classic movie everyone loves. In a one-piece jumpsuit it’s easy to look great.",
@@ -50,7 +50,7 @@ export default {
         },
         {
             id: "h7",
-            productImg: "https://target.scene7.com/is/image/Target/51212778?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            productImg: "https://target.scene7.com/is/image/Target/51212778?wid=325&hei=355&qlt=80&fmt=pjpeg",
             fullSizeImg: "https://images.halloweencostumes.com/products/3019/1-2/mens-genie-costume.jpg",
             productTitle: "Genie Costume",
             productDescription: "Grant all of your friends' wildest wishes in this Men's Disney Aladdin Genie Muscle Adult Costume. Everyone will wish they had a costume as cool as yours.",
@@ -58,7 +58,7 @@ export default {
         },
         {
             id: "h8",
-            productImg: "https://target.scene7.com/is/image/Target/51195291?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            productImg: "https://target.scene7.com/is/image/Target/51195291?wid=325&hei=355&qlt=80&fmt=pjpeg",
             fullSizeImg: "https://target.scene7.com/is/image/Target/51195289?wid=520&hei=520&fmt=pjpeg",
             productTitle: "Princess Jasmine Costume",
             productDescription: "The Women’s Disney Princess Jasmine Prestige Fab Costume shimmers with lace and bead accents from head to toe. The off the shoulder top is ultra flattering with a tailored fit you'll love.",
@@ -76,101 +76,149 @@ export default {
     decor: [
         {
             id: "t1",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201722/0016/img67j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201722/0016/img67c.jpg",
-            productTitle: "Alta Glaze Set",
-            productDescription: "With its beautiful reactive glaze finish and subtle ombre effect, our couped Alta Dinnerware is everyday dining at its finest. The best part—it's dishwasher- and microwave-safe. Double score.",
-            price: "$24"
+            productImg: "https://target.scene7.com/is/image/Target/52315535?wid=250&hei=325&qlt=80&fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/52315535?wid=425&hei=325&qlt=80&fmt=pjpeg",
+            productTitle: "Jack Skellington Pumpkin",
+            productDescription: "Disney® The Nightmare Before Christmas Jack Skellington Pumpkin Push-Ins",
+            price: "$10.00"
         },
         {
             id: "t2",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201738/0085/schott-zwiesel-modo-glassware-set-of-4-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201738/0085/schott-zwiesel-modo-glassware-set-of-4-c.jpg",
-            productTitle: "Modo Glassware",
-            productDescription: "Enjoy your favorite sips in sleek style with this set of crystal glassware, designed to enhance the unique varietal aromas and flavors of wine. Each glass is designed to be resistant to breakage, chipping and scratching—and did we mention that it's also dishwasher safe? We'll raise a glass to that.",
-            price: "$48"
+            productImg: "https://lumiere-a.akamaihd.net/v1/images/image_7c522957.jpeg?width=300&height=325&amp;region=0%2C0%2C2000%2C2000",
+            fullSizeImg: "https://lumiere-a.akamaihd.net/v1/images/image_7c522957.jpeg?width=450&region=0%2C0%2C2000%2C2000",
+            productTitle: "The Haunted Mansion Mug",
+            productDescription: "Get a handle on your fears with this Haunted Mansion Sculpted Mug. Finely detailed with elements inspired by the décor at the frightfully popular attraction, this ceramic cup is guaranteed to raise your spirits.",
+            price: "$22.99"
         },
         {
             id: "t3",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201721/0050/matte-black-flatware-set-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201721/0050/matte-black-flatware-set-c.jpg",
-            productTitle: "Black Flatware",
-            productDescription: "This bold flatware isn't just for company; the electroplated stainless steel core makes it sturdy enough for everyday use. Each place setting ensures that you have all the right utensils at hand, whatever the occasion.",
-            price: "$31"
+            productImg: "https://target.scene7.com/is/image/Target/52345454?wid=325&amp;hei=325&amp;qlt=80&amp;fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/52345454?wid=460&hei=460&fmt=pjpeg",
+            productTitle: "Pumpkin String Lights",
+            productDescription: "Add some mood lighting to your next spooktastic gathering with these Halloween LED Pumpkin String Lights. Tucked inside individual plastic jack-o'-lantern casings, these fun string lights bring a creepy-cool twist to complement your themed room or legendary haunted house. And with their weather-resistant construction, you can use them just as well outdoors as you can indoors — wrap them along a picnic table to light up some of your creepy decor.",
+            price: "$9.99"
         },
         {
             id: "t4",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201738/0049/mirror-chargers-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201738/0049/mirror-chargers-c.jpg",
-            productTitle: "Mirror Chargers",
-            productDescription: "Add charm to your table with these Mirrored Chargers. Think of them as an oversized coaster for bowls and serving pieces—great for hot or cold dishes that could leave a ring on your table.",
-            price: "$24"
+            productImg: "https://target.scene7.com/is/image/Target/52293927?wid=325&amp;hei=325&amp;qlt=80&amp;fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/52293927?wid=520&hei=520&fmt=pjpeg",
+            productTitle: "Halloween Apothecary Jar",
+            productDescription: "Bring the perfect spooky, gothic flair to your Halloween decorations with the Halloween Apothecary Jar from Hyde and Eek! Boutique. This large jar features a skull with the label “Bone Powder.” Add it to your table to create your perfect Halloween scene.",
+            price: "$5.00"
         },
         {
             id: "t5",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201724/0002/marble-wood-cutting-board-paddle-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201724/0002/marble-wood-cutting-board-paddle-c.jpg",
-            productTitle: "Cutting Board",
-            productDescription: "Slice + serve. Our Marble + Wood Cutting boards are a great foundation for cheese plates, charcuterie platters and assorted hors d’oeuvres. The marble surface keeps food cool for hours and the wood accent is great for cutting and slicing.",
-            price: "$31"
+            productImg: "https://lumiere-a.akamaihd.net/v1/images/599a71988deee30001f1dda6-image_4875739f.jpeg?width=300&amp;region=0%2C0%2C2000%2C2000&quot",
+            fullSizeImg: "https://lumiere-a.akamaihd.net/v1/images/599a71988deee30001f1dda6-image_4875739f.jpeg?width=500&amp;region=0%2C0%2C2000%2C2000&quot",
+            productTitle: "Mickey & Minnie Mouse Halloween Kitchen Towel Set",
+            productDescription: "Don't let dirty dishes haunt your house on the big day. Mickey and Minnie dare to decorate the kitchen with this set of two Halloween-themed towels that will spook away spills and dry your tears!",
+            price: "$21.99"
         },
         {
             id: "t6",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201738/0028/center-stripe-woven-napkin-set-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201738/0028/center-stripe-woven-napkin-set-c.jpg",
-            productTitle: "Woven Napkin Set",
-            productDescription: "Get in line. A chunky stripe runs across pure cotton on our Center Stripe Woven Napkins. No matter the occasion, they add good cheer to any meal.",
-            price: "$24"
+            productImg: "https://lumiere-a.akamaihd.net/v1/images/59c215aa3107f20001d8ad53-image_8fbdba29.jpeg?width=300&region=0%2C0%2C2000%2C2000",
+            fullSizeImg: "https://lumiere-a.akamaihd.net/v1/images/59c215aa3107f20001d8ad53-image_8fbdba29.jpeg?width=650&region=0%2C0%2C2000%2C2000",
+            productTitle: "Mickey Mouse Light-Up Glass Jack O'Lantern",
+            productDescription: "Mickey will brighten smiles throughout the spooky season with this lighted, glass jack-o'-lantern, the perfect pumpkin centerpiece for your Halloween party and trick-or-treat traditions.",
+            price: "$29.99"
+        },
+        {
+            id: "t7",
+            productImg: "https://lumiere-a.akamaihd.net/v1/images/image_c41389f6.jpeg?width=250&height=300&region=0%2C0%2C2000%2C2000",
+            fullSizeImg: "https://lumiere-a.akamaihd.net/v1/images/image_c41389f6.jpeg?width=450&region=0%2C0%2C2000%2C2000",
+            productTitle: "Jack - Nightmare Before Christmas Limited Edition Giclée",
+            productDescription: "Jack Skellington's haunting face is given an eerie glow in this ghostly work by Noah. Inspired by Tim Burton's The Nightmare Before Christmas, this limited edition giclée is available in a variety of formats.",
+            price: "$295.00"
+        },
+        {
+            id: "t8",
+            productImg: "https://lumiere-a.akamaihd.net/v1/images/image_077da80b.jpeg?width=250&height=300&region=0%2C0%2C2000%2C2000",
+            fullSizeImg: "https://lumiere-a.akamaihd.net/v1/images/image_077da80b.jpeg?width=450&region=0%2C0%2C2000%2C2000",
+            productTitle: "Sally - Nightmare Before Christmas Limited Edition Giclée",
+            productDescription: "The haunting charm of Jack Skellington's patchwork partner is captured perfectly by this giclée by Noah. Inspired by Tim Burton's The Nightmare Before Christmas, this Sally portrait is available in a variety of formats.",
+            price: "$295.00"
+        },
+        {
+            id: "t9",
+            productImg: "https://lumiere-a.akamaihd.net/v1/images/59bf722c3b39100001a263e1-image_4a5743c1.jpeg?width=300&amp;region=0%2C0%2C2000%2C2000&quot",
+            fullSizeImg: "https://lumiere-a.akamaihd.net/v1/images/59bf722c3b39100001a263e1-image_4a5743c1.jpeg?width=500&region=0%2C0%2C2000%2C2000",
+            productTitle: "Haunted Mansion Throw Blanket",
+            productDescription: "Your home will be in grave danger of looking eerily like the popular attraction with the addition of this Haunted Mansion Throw. The familiar wallpaper design has been woven into this large blanket that will provide warm memories of the chilling ride.",
+            price: "$74.99"
         }
     ],
     food: [
         {
             id: "a1",
-            productImg: "https://ii.worldmarket.com/fcgi-bin/iipsrv.fcgi?FIF=/images/worldmarket/source/70510_XXX_v1.tif&qlt=75&wid=315&cvt=jpeg",
-            fullSizeImg: "https://ii.worldmarket.com/fcgi-bin/iipsrv.fcgi?FIF=/images/worldmarket/source/70510_XXX_v1.tif&wid=650&cvt=jpeg",
-            productTitle: "Cheshire Cat's Vanishing Creme Soda",
-            productDescription: "Get ready to unleash spooky and delicious flavors this Halloween. With a sweet vanilla flavor, Cheshire Cat's Vanishing Creme soda will leave you all smiles.",
-            price: "$1.49"
+            productImg: "https://target.scene7.com/is/image/Target/52337000?wid=325&hei=350&qlt=80&fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/52337000?wid=425&hei=425&fmt=pjpeg",
+            productTitle: "Haribo Halloween Ghostly Gummies",
+            productDescription: "You can add some of these candies to various decorative dishes and containers around your home or throw them into your Halloween party favor bags. You’ll be the most popular house on the block with a plentiful stash of candy to satisfy all the ghoulish creatures on Halloween. ",
+            price: "$1.00"
         },
         {
             id: "a2",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201722/0004/roar-rabbit-kinetic-mobile-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201722/0004/roar-rabbit-kinetic-mobile-c.jpg",
-            productTitle: "Kinetic Mobile",
-            productDescription: "Like jewelry for your home, our Roar + Rabbit Kinetic Mobile balances geometric shapes dressed up in light-catching brass. It hangs from the ceiling to add form, movement and a sense of whimsy to any space.",
-            price: "$67"
+            productImg: "https://target.scene7.com/is/image/Target/52321548?wid=325&hei=350&qlt=80&fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/52321548?wid=425&hei=425&fmt=pjpeg",
+            productTitle: "Reese's Halloween Peanut Butter Pumpkins",
+            productDescription: "REESE'S Peanut Butter Cups are dressing up as pumpkins this Halloween! With their classic peanut butter and chocolate taste, REESE'S Peanut Butter Pumpkins are great for trick-or-treat and adding to Halloween desserts.",
+            price: "$3.99"
         },
         {
             id: "a3",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201738/0042/gallery-frames-gold-leaf-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201738/0042/gallery-frames-gold-leaf-c.jpg",
-            productTitle: "Gallery Frames",
-            productDescription: "Go for the gold. Create a gallery wall of favorite photos with our versatile Gold Leaf Gallery Frames. In a glamorous gold finish and a variety of sizes, they come with removable mats to make them even more adaptable.",
-            price: "$59"
+            productImg: "https://target.scene7.com/is/image/Target/52310154?wid=325&hei=380&qlt=80&fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/52310154?wid=425&hei=425&fmt=pjpeg",
+            productTitle: "Caramel Apple Pops",
+            productDescription: "Caramel Apple Pops Bag. The perfect combination of tart, green apple candy coated with rich, creamy, caramel. Delicious apple pops with real milk caramel! It's the perfect Halloween pass out treat!",
+            price: "$2.69"
         },
         {
             id: "a4",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201719/0004/mica-wallpaper-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201719/0004/mica-wallpaper-c.jpg",
-            productTitle: "Micah Wallpaper",
-            productDescription: "Inspired by the natural beauty of its mineral namesake, our Mica Wallpaper brings the outdoors in while creating a dramatic look in offices, living spaces and beyond.",
-            price: "$274"
+            productImg: "https://target.scene7.com/is/image/Target/52335051?wid=325&hei=350&qlt=80&fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/52335051?wid=425&hei=425&fmt=pjpeg",
+            productTitle: "Starburst Halloween Mix Fruit Chews",
+            productDescription: "Make sure you’re prepared for Halloween by stocking up on plenty of sweet treats for all the trick-or-treaters. Grab just your favorite candy or try a couple of different varieties to hand out to all the masquerading mummies and monsters.",
+            price: "$2.69"
         },
         {
             id: "a5",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201725/0003/img17j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201725/0003/img17c.jpg",
-            productTitle: "Shapes Print",
-            productDescription: "Add an abstract accent to your space with this framed print, complete with bold colors, layers and geometric shapes.",
-            price: "$148"
+            productImg: "https://target.scene7.com/is/image/Target/52337102?wid=325&hei=350&qlt=80&fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/52337102?wid=560&hei=560&fmt=pjpeg",
+            productTitle: "Peeps Halloween Spooky Cats Marshmallow Candy",
+            productDescription: "Stock up on candy for Halloween so all the little fiends and ghouls get a sweet treat",
+            price: "$1.00"
         },
         {
             id: "a6",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201721/0052/recycled-metal-wall-art-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201721/0052/recycled-metal-wall-art-c.jpg",
-            productTitle: "Metal Wall Art",
-            productDescription: "Made with recycled metal from steel drums, this sculptural art adds modern style to your walls. Each piece is crafted by hand in Haiti—artisans cut and hammer the metal and finish it with a matte black patina for a soft, polished look.",
-            price: "$199"
+            productImg: "https://target.scene7.com/is/image/Target/52312984?wid=325&hei=350&qlt=80&fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/52312984?wid=560&hei=560&fmt=pjpeg",
+            productTitle: "Halloween Snack Size Variety Pack",
+            productDescription: "Nothing’s scarier than running out of Halloween candy! These 46-piece bags of bulk candy will ensure you have enough to make Halloween happier. The Hershey Halloween Scare 'n' Share Mix includes an assortment of KIT KAT® Wafer Bars, REESE'S Peanut Butter Cups, WHOPPERS Malted Milk Balls, TAKE5 Candy Bars, and JOLLY RANCHER Lollipops.",
+            price: "$7.99"
+        },
+        {
+            id: "a7",
+            productImg: "https://target.scene7.com/is/image/Target/52336939?wid=325&hei=380&qlt=80&fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/52336939?wid=560&hei=560&fmt=pjpeg",
+            productTitle: "Sour Patch Kids Halloween Tricksters",
+            productDescription: "Mischief-filled Sour Patch Kids start out sour then turn sweet. Whether you’re trying to plan out the perfect prank or the ideal delight, these tasty little confections are chewy treats to be enjoyed when you’re in need of a play-filled break. Sour Patch Kids come in single packs for individual snacking and bulk packages that are ideal for sharing (pfft, who are we kidding—there will be no sharing). Get some for your next movie night, or just for a fun sour, then sweet treat for you, your family and friends. Sour Patch Kids are Sour, then Sweet, then Gone.",
+            price: "$2.69"
+        },
+        {
+            id: "a8",
+            productImg: "https://target.scene7.com/is/image/Target/52276086?wid=325&hei=400&qlt=80&fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/52276086?wid=560&hei=560&fmt=pjpeg",
+            productTitle: "Oreo Halloween Cookies",
+            productDescription: "Take a delicious break with Halloween Oreo Chocolate Sandwich Cookies, the favorite of millions around the world. Supremely dunkable, this Oreo variety sandwiches a rich crème orange-colored filling between the tempting taste of two bold chocolate wafers--making them milk's favorite cookie. The resealable container with easy-pull tab keeps cookies fresh and is perfect for snacking, sharing, or traveling. Oreos are a kosher food that contains zero trans fats. This includes 20oz Family Size package of Oreo Halloween Orange-Colored Crème Chocolate Sandwich Cookies.",
+            price: "$3.50"
+        },
+        {
+            id: "a9",
+            productImg: "https://target.scene7.com/is/image/Target/16601107?wid=325&hei=400&qlt=80&fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/16601107?wid=560&hei=560&fmt=pjpeg",
+            productTitle: "Cheetos® Bag Of Bones™",
+            productDescription: "White Cheddar Flavored Snacks.",
+            price: "$3.00"
         }
     ]
 }
