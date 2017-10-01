@@ -2,51 +2,75 @@ export default {
     apparel: [
         {
             id: "h1",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201738/0044/parsons-desk-white-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201738/0044/parsons-desk-white-c.jpg",
-            productTitle: "Parsons Desk",
-            productDescription: "Legendary lines. This update of the original iconic Parsons Table has square legs the same thickness as its top, an exacting equation of modern design. With two hidden drawers, the Parsons Desk works just as well as an entryway table, dining room buffet or media console as it does in your home office.",
-            price: "$399"
+            productImg: "https://images.halloweencostumes.com/products/2469/1-21/sexy-sally-costume.jpg",
+            fullSizeImg: "https://images.halloweencostumes.com/products/2469/1-2/sexy-sally-costume.jpg",
+            productTitle: "Sally Costume",
+            productDescription: "You'll love this costume to pieces! Become Jack Skellington's favorite gal when you slip into the dress with ''stitches'' scar pattern. The red wig, glovettes, and petticoat complete the haunting look.",
+            price: "$54.99"
         },
         {
             id: "h2",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201738/0064/belgian-flax-linen-duvet-cover-shams-slate-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201738/0064/belgian-flax-linen-duvet-cover-shams-slate-c.jpg",
-            productTitle: "Belgian Flax Linen",
-            productDescription: "Fall for flax. Our Belgian Linen Duvet Cover is crafted from fine Belgian flax, which is washed for a luxe, lived-in look. Prized for its breathability and softness, linen keeps you cool in the summer and warm in the winter, making it a dreamy choice for the master bedroom.",
-            price: "$249"
+            productImg: "https://images.halloweencostumes.com/products/3007/1-21/adult-jack-skellington-costume.jpg",
+            fullSizeImg: "https://images.halloweencostumes.com/products/3007/1-2/adult-jack-skellington-costume.jpg",
+            productTitle: "Jack Skellington Costume",
+            productDescription: "You'll be the life - and death - of any Halloween party in this deluxe Jack Skellington costume. Featuring his pinstriped suit and a full-sized mask, this suit will turn you into the Pumpkin King himself.",
+            price: "$119.99"
         },
         {
             id: "h3",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201737/0022/modern-curved-high-back-chair-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201737/0022/modern-curved-high-back-chair-c.jpg",
-            productTitle: "High-Back Chair",
-            productDescription: "Defined by its high back and soft, rounded form that hugs the body, our Modern Curved Chair deftly experiments with scale and proportion to make a statement in any room. It floats on pin legs and features a contrast in textures, mixing a basket slub seat cushion and interior with a micro boucle exterior.",
-            price: "$899"
+            productImg: "https://images.halloweencostumes.com/products/2500/1-21/mrs--mr-potato-head-costume.jpg",
+            fullSizeImg: "https://images.halloweencostumes.com/products/2500/1-2/mrs--mr-potato-head-costume.jpg",
+            productTitle: "Mr/Mrs Potato Head Costume",
+            productDescription: "There are always some big questions lingering over common items and practices, and Mr. Potato Head is nearly at the top of the list! Who first thought of making molded pieces of a face to adorn your boring old potato? That's not where the Potato Head questions end, either. Who decided that this newly anthropomorphic potato man needed a wife? And who came up with the idea to keep his various parts in his rear end! We may never know, but in the end, we're glad they thought of it. It's weird, but it's good old-fashioned fun. This Mr OR Mrs Potato Head Costume will be a blast from the past. We just hope you're not plagued with an existential crisis when you're supposed to be partying.",
+            price: "$49.99"
         },
         {
             id: "h4",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201720/0002/luna-chair-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201720/0002/luna-chair-c.jpg",
-            productTitle: "Luna Chair",
-            productDescription: "If chairs have a personality, then our Luna Chair is fun, even a little flirtatious. Its oversized, rounded frame offers a comfortably cradling seat that invites you to curl up and settle in with a good book.",
-            price: "$599"
+            productImg: "https://images.halloweencostumes.com/products/2982/1-21/adult-cruella-devil-costume.jpg",
+            fullSizeImg: "https://images.halloweencostumes.com/products/2982/1-2/adult-cruella-devil-costume.jpg",
+            productTitle: "Cruella De Vil Costume",
+            productDescription: "Bring out your De Vil-ish nature with this glamorous Cruella costume. The soft black velvety dress and deluxe faux fur-trimmed coat means you'll be easy to spot as the villainous fashionista from 101 Dalmatians.",
+            price: "$89.99"
         },
         {
             id: "h5",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201737/0024/ombre-coffee-table-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201737/0022/ombre-coffee-table-c.jpg",
-            productTitle: "Ombre Coffee Table",
-            productDescription: "A watercolor-inspired design meets sleek concrete to create our striking Ombre Coffee Table. To make each table, smooth concrete is layered over a honeycombed core, creating the strength, character and depth of traditional concrete at a surprisingly effortless weight. Part painting, part sculpture—it's a masterpiece in any space.",
-            price: "$499"
+            productImg: "https://target.scene7.com/is/image/Target/51212669?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/51212668?wid=520&hei=520&fmt=pjpeg",
+            productTitle: "Woody Costume",
+            productDescription: "Get the complete look this Halloween with the Men’s Disney Toy Story costume. This men’s costume is straight out of the classic movie everyone loves. In a one-piece jumpsuit it’s easy to look great.",
+            price: "$57.99"
         },
         {
             id: "h6",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201731/0009/stairstep-jute-rug-platinum-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201731/0009/stairstep-jute-rug-platinum-c.jpg",
-            productTitle: "Stairstep Jute Rug",
-            productDescription: "Artisans in India use a mix of natural jute fibers and cotton chindi fabrics to create the two-toned diamond pattern on our Stairstep Jute Rug. It's a Fair Trade Certified™ product—that means that each piece made supports better living and working conditions for the artisans who crafted it.",
-            price: "$249"
+            productImg: "https://images.halloweencostumes.com/products/14296/1-21/womens-disney-maleficent-costume.jpg",
+            fullSizeImg: "https://images.halloweencostumes.com/products/14296/1-2/womens-disney-maleficent-costume.jpg",
+            productTitle: "Maleficent Costume",
+            productDescription: "Can you capture the sinister beauty that is Maleficent? Our magnificent Maleficent Costume helps you summon the power to transform yourself into ''The Mistress of All Evil'' in all her purple and iridescent glory.",
+            price: "$39.99"
+        },
+        {
+            id: "h7",
+            productImg: "https://target.scene7.com/is/image/Target/51212778?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            fullSizeImg: "https://images.halloweencostumes.com/products/3019/1-2/mens-genie-costume.jpg",
+            productTitle: "Genie Costume",
+            productDescription: "Grant all of your friends' wildest wishes in this Men's Disney Aladdin Genie Muscle Adult Costume. Everyone will wish they had a costume as cool as yours.",
+            price: "$49.99"
+        },
+        {
+            id: "h8",
+            productImg: "https://target.scene7.com/is/image/Target/51195291?wid=325&hei=325&qlt=80&fmt=pjpeg",
+            fullSizeImg: "https://target.scene7.com/is/image/Target/51195289?wid=520&hei=520&fmt=pjpeg",
+            productTitle: "Princess Jasmine Costume",
+            productDescription: "The Women’s Disney Princess Jasmine Prestige Fab Costume shimmers with lace and bead accents from head to toe. The off the shoulder top is ultra flattering with a tailored fit you'll love.",
+            price: "$69.99"
+        },
+        {
+            id: "h9",
+            productImg: "https://images.halloweencostumes.com/products/3018/1-21/adult-aladdin-costume.jpg",
+            fullSizeImg: "https://images.halloweencostumes.com/products/3018/1-2/adult-aladdin-costume.jpg",
+            productTitle: "Aladdin Costume",
+            productDescription: "Get the Arabian princess of your dreams in the officially licensed Adult Aladdin Costume Deluxe! A soon-to-be prince needs this silky white jumpsuit with metallic gold accents which are certainly kingdom worthy. ",
+            price: "$89.99"
         }
     ],
     decor: [
@@ -102,11 +126,11 @@ export default {
     food: [
         {
             id: "a1",
-            productImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201723/0036/framed-print-watercolor-burst-iv-j.jpg",
-            fullSizeImg: "https://www.westelm.com/weimgs/ab/images/wcm/products/201723/0036/framed-print-watercolor-burst-iv-c.jpg",
-            productTitle: "Watercolor Burst",
-            productDescription: "Full circle. This Watercolor Burst Print's tiny pattern spirals from the center.",
-            price: "$149"
+            productImg: "https://ii.worldmarket.com/fcgi-bin/iipsrv.fcgi?FIF=/images/worldmarket/source/70510_XXX_v1.tif&qlt=75&wid=315&cvt=jpeg",
+            fullSizeImg: "https://ii.worldmarket.com/fcgi-bin/iipsrv.fcgi?FIF=/images/worldmarket/source/70510_XXX_v1.tif&wid=650&cvt=jpeg",
+            productTitle: "Cheshire Cat's Vanishing Creme Soda",
+            productDescription: "Get ready to unleash spooky and delicious flavors this Halloween. With a sweet vanilla flavor, Cheshire Cat's Vanishing Creme soda will leave you all smiles.",
+            price: "$1.49"
         },
         {
             id: "a2",

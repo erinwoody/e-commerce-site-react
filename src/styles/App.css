@@ -8,12 +8,21 @@ footer {
   display: flex;
   width: 100%;
   justify-content: center;
-  margin-top: 90%;
+  margin-top: 10%;
   padding: 20px 0 20px 0;
   font-size: 20px;
 }
 
-h1 {
+.product-line {
+  margin-top: 100px;
+}
+
+.product-details {
+  margin-top: 100px;
+}
+
+
+
+.img-ctr {
   text-align: center;
-  color: red;
 }

@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import productData from "../data/productData.js";
-// import _ from "lodash";
 
 export default class ProductDetail extends Component {
     render() {
@@ -9,7 +8,7 @@ export default class ProductDetail extends Component {
         let product = productData[productline].find(item => item.id === id)
 
         return (
-            <div>
+            <div className="product-details">
                 <div>
                     <img alt="" src={product.fullSizeImg} />
                     <p>{product.productTitle}</p>

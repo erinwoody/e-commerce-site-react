@@ -10,7 +10,8 @@ export default class ProductLine extends Component {
     let products = productLineData.map(product => {
       return (
         <div key={product.id} className="col-lg-4 col-md-6 mb-4">
-          <div className="card h-100">
+              <div className="card h-100">
+              <div className="img-ctr">    
             <NavLink
               activeClassName="selected"
               className="navlink"
@@ -21,7 +22,8 @@ export default class ProductLine extends Component {
                 src={product.productImg}
                 alt={product.productTitle}
               />
-            </NavLink>
+                      </NavLink>
+            </div>          
             <div className="card-body">
               <h4 className="card-title">
                 <NavLink
@@ -42,7 +44,7 @@ export default class ProductLine extends Component {
 
     return (
       <div className="container product-ctr">
-        <div className="row">{products}</div>
+        <div className="row product-line">{products}</div>
       </div>
     );
   }

@@ -4,7 +4,7 @@ export default class Header extends Component {
   render() {
     return (
       <div>
-        <nav className="navbar navbar-toggleable-md navbar-light bg-faded">
+        <nav className="navbar navbar-toggleable-md navbar-light bg-faded fixed-top">
           <button
             className="navbar-toggler navbar-toggler-right"
             type="button"

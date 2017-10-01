@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import "./styles/App.css";
-// import "./styles/bootstrap.css";
+import "./styles/bootstrap.css";
 import BaseLayout from "./container/BaseLayout";
 import About from "./container/About";
 import Contact from "./container/Contact";
