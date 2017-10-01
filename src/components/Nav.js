@@ -1,10 +1,13 @@
 import React, { Component } from "react";
 
-export default class Header extends Component {
+export default class Nav extends Component {
   render() {
     return (
-      <div>
-        <nav className="navbar navbar-toggleable-md navbar-light bg-faded fixed-top">
+      <div id="page-top">
+        <nav
+          className="navbar navbar-toggleable-md navbar-light bg-faded fixed-top"
+          id="mainNav"
+        >
           <button
             className="navbar-toggler navbar-toggler-right"
             type="button"
@@ -19,7 +22,10 @@ export default class Header extends Component {
           <a className="navbar-brand" href="/">
             Halloween Boo-tique
           </a>
-          <div className="collapse navbar-collapse" id="navbarNavDropdown">
+          <div
+            className="collapse navbar-collapse"
+            id="navbarNavDropdown navbarResponsive"
+          >
             <ul className="navbar-nav">
               <li className="nav-item active">
                 <a className="nav-link" href="/">
@@ -27,16 +33,16 @@ export default class Header extends Component {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/contact">
+                <a className="nav-link js-scroll-trigger" href="/contact">
                   Contact
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/about">
+                <a className="nav-link js-scroll-trigger" href="/about">
                   About
                 </a>
               </li>
-              <li className="nav-item dropdown">
+              <li className="nav-item dropdown js-scroll-trigger">
                 <a
                   className="nav-link dropdown-toggle"
                   href="http://example.com"

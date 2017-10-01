@@ -1,17 +1,3 @@
-* {
-  font-family: Helvetica, Arial, sans-serif;
-}
-
-footer {
-  color: grey;
-  background-color: black;
-  display: flex;
-  width: 100%;
-  justify-content: center;
-  margin-top: 10%;
-  padding: 20px 0 20px 0;
-  font-size: 20px;
-}
 
 .product-line {
   margin-top: 100px;
@@ -20,6 +6,7 @@ footer {
 .product-details {
   margin-top: 100px;
   text-align: center;
+  background-color: lightgray;
 }
 
 .card-body {
@@ -27,5 +14,24 @@ footer {
 }
 
 .img-ctr {
+  text-align: center;
+}
+
+/* CAROUSEL */
+
+#img-1 {
+  background-image: url("../img/header.jpg");
+}
+
+#img-2 {
+  background-image: url("../img/img-2.jpeg");
+}
+
+#img-3 {
+  background-image: url("../img/img-3.jpeg");
+}
+
+/* ABOUT */
+#team {
   text-align: center;
 }

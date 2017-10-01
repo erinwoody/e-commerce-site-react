@@ -1,15 +1,15 @@
 import React, { Component } from "react";
-import Header from '../components/Header';
-
+import Nav from '../components/Nav';
+import Footer from '../components/Footer';
 
 export default class BaseLayout extends Component {
   render() {
     return (
       <div>
         <div>
-          <Header />
+          <Nav />
           {this.props.children}
-          <footer>Halloween Store 2017</footer>
+          <Footer />
         </div>
       </div>
     );
