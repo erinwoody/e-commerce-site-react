@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-
+import { NavLink } from "react-router-dom";
+import navLogo from '../img/logo.png';
 export default class Nav extends Component {
   render() {
     return (
@@ -19,9 +20,9 @@ export default class Nav extends Component {
           >
             <span className="navbar-toggler-icon" />
           </button>
-          <a className="navbar-brand" href="/">
-            Halloween Boo-tique
-          </a>
+
+            <NavLink className="navbar-brand nav-icon" to='/'><img className="nav-icon" src={navLogo}/> </NavLink>
+
           <div
             className="collapse navbar-collapse"
             id="navbarNavDropdown navbarResponsive"
@@ -64,7 +65,7 @@ export default class Nav extends Component {
                     Decorations
                   </a>
                   <a className="dropdown-item" href="/food">
-                    Food
+                    Treats
                   </a>
                 </div>
               </li>

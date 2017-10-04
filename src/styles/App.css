@@ -1,12 +1,33 @@
-
-.product-line {
-  margin-top: 100px;
+/* LOGO */
+.nav-icon {
+  height: 60px;
+  width: 100px;
 }
 
+/* DETAILS */
+  .product-line {
+    margin-top: 145px;
+  }
 .product-details {
   margin-top: 100px;
+  margin-bottom: 100px;
   text-align: center;
-  background-color: lightgray;
+}
+
+.product-title {
+  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #fed136;
+  font-size: 40px;
+}
+
+.product-description {
+  font-size: 20px;
+  margin: 0 20%;
+}
+
+.product-price {
+  font-size: 25px;
+  font-weight: bold;
 }
 
 .card-body {
@@ -17,21 +38,75 @@
   text-align: center;
 }
 
+
 /* CAROUSEL */
 
 #img-1 {
-  background-image: url("../img/header.jpg");
+  background-image: url("../img/starwars.jpeg");
+ 
 }
 
 #img-2 {
-  background-image: url("../img/img-2.jpeg");
+  background-image: url("../img/decor.jpg");
 }
 
 #img-3 {
-  background-image: url("../img/img-3.jpeg");
+  background-image: url("../img/treats.jpg");
+}
+
+h3 {
+  font-size: 5rem;
+}
+
+.carousel-caption {
+  position: absolute;
+  right: 15%;
+  left: 15%;
+  z-index: 10;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  color: white;
+  text-align: center;
+  margin-bottom: 20%;
+  letter-spacing: 15px;
 }
 
 /* ABOUT */
 #team {
   text-align: center;
+}
+
+/* CONTACT */
+#contact {
+  margin: 100px;
+  margin-top: 145px;
+}
+
+/* PORTFOLIO */
+.img-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+}
+
+.portfolio-caption {
+  color: red;
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 100%;
+}
+
+/* BUTTONS */
+.btn-danger {
+  font-size: 18px;
+  font-weight: 700;
+  padding: 20px 40px;
+  border-radius: 3px;
+  color: white;
+  border-color: #fed136;
+  background-color: #fed136;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  margin: 10px;
 }

@@ -11,9 +11,9 @@ export default class ProductDetail extends Component {
             <div className="product-details">
                 <div>
                     <img alt="" src={product.fullSizeImg} />
-                    <p>{product.productTitle}</p>
-                    <p>{product.productDescription}</p>
-                    <p>{product.price}</p>
+                    <p className="product-title">{product.productTitle}</p>
+                    <p className="product-price">{product.price}</p>
+                    <p className="product-description">{product.productDescription}</p>
                 </div>
                 <Link className="btn btn-large btn-danger" to="/">Back To Home</Link>
                 <Link className="btn btn-large btn-danger" to="/">Add to Cart</Link>
