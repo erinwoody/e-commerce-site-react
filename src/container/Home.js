@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-// import { NavLink } from "react-router-dom";
 import skull from "../img/skull.jpeg";
 import pumpkins from "../img/pumpkins.jpeg";
 import decor from "../img/decor.jpg";
